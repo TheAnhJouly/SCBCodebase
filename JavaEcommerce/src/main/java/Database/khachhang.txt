@@ -1,0 +1,10 @@
+CUS1,Tony Stark,0912345678,ironman@gmail.com,New York
+CUS2,Steve Rogers,0921345678,captain@gmail.com,Brooklyn
+CUS3,Bruce Banner,0931245678,hulk@gmail.com,Not Given
+CUS4,Thor - Odin son,0987654321,odinson@gmail.com,Asgard
+CUS5,Natasha Romanoff,0951234678,blackwidow@gmail.com,Russia
+CUS6,Clint Barton,09851234678,hawkeye@gmail.com,New York
+CUS7,Loki,0941235678,loki@gmail.com,Asgard
+CUS8,Nick Fury,0900000000,nick@gmail.com,New York
+STA1,Hoang,0998765432,hoang@gmail.com,Phu Tho
+CUS10,The,0969540600,The@gmail.com,Vietnam

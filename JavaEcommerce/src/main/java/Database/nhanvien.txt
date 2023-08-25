@@ -1,0 +1,4 @@
+STA00001,Hung,0987654123,lmao@gmail.com,5f4dcc3b5aa765d61d8327deb882cf99,Hanoi,Nam,G1,1
+STA00003,Nam Hoai,0987654321,nam@gmail.com,5f4dcc3b5aa765d61d8327deb882cf99,Hanoi,Nam,G2,1
+STA2,Thang Luong,0987654312,thang@gmail.com,5f4dcc3b5aa765d61d8327deb882cf99,Ha Tinh,Nam,G2,1
+The,Im The,0998765432,the@gmail.com,5f4dcc3b5aa765d61d8327deb882cf99,HaNoi,Nam,G3,1
